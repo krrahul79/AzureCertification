@@ -36,3 +36,10 @@ Migrating workloads
 Test and development
 website hosting
 Storage, backup and recovery
+
+PaaS
+
+Environemnt with resources managed over internet
+Combine resources to deliver services
+Scale up and down as necessary
+You don't touch the OS - managed by Microsoft
