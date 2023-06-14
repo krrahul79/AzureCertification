@@ -43,3 +43,14 @@ Environemnt with resources managed over internet
 Combine resources to deliver services
 Scale up and down as necessary
 You don't touch the OS - managed by Microsoft
+
+SaaS
+
+Complete cloud application
+You just manage the data
+
+Sass is used for:
+Gain acess to sophiscated applications
+Pay only for what you use
+Mobilise your workforce easily
+Access app data from anywhere
