@@ -54,3 +54,5 @@ Gain acess to sophiscated applications
 Pay only for what you use
 Mobilise your workforce easily
 Access app data from anywhere
+
+Iaas : Requires most user management. User is resposible for managing operating systems, data and apps
